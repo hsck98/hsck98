@@ -1,16 +1,15 @@
-### Hyun Seok Cho 👋
+# Hyun Seok Cho 👋
 
-<!--
-**Software Developer
+** Software Developer **
 
 I'm a full-stack developer hoping to fill this github repository with projects I work on moving forward. Hope you enjoy!
 
-Here are some ideas to get you started:
+---
 
-- 🌱 I’m currently learning Unity and Blender to build little fun games to play with friends and family on Saturday evenings.
+I’m currently learning Unity and Blender to build little fun games to play with friends and family on Saturday evenings.
 This will help me build a reputable portfolio for my dream job of Game Developer :)
 
-- Languages and Tools
+### Languages and Tools
 <img alig="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/java/java-original.svg"/>
 <img alig="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
 <img alig="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -26,4 +25,3 @@ This will help me build a reputable portfolio for my dream job of Game Developer
 
 - 📫 Email: hschokim12@gmail.com
 - Linkedin: <a href="https://www.linkedin/in/hsck98.com">LinkedIn</a>
--->
