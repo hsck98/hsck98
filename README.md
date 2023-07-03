@@ -23,4 +23,4 @@ This will help me build a reputable portfolio for my dream job of Game Developer
 #
 
 - 📫 Email: hschokim12@gmail.com
-- <a href="https://www.linkedin/in/hsck98.com">LinkedIn</a>
+- LinkedIn: <a href="https://www.linkedin/in/hsck98.com">hsck98</a>
